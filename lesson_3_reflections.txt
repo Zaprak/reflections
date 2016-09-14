@@ -16,7 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Google Drive, Dropbox or, god forbid, e-mail could be used to send files and try to keep them up-to-date between two people. the overhead would be higher but easier to use with non tech people
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
